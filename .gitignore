@@ -27,6 +27,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/src/Main.java
 /.gitignore
-/.idea/
-/src/
+/HomeWork4.iml
